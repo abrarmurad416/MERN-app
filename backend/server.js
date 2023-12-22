@@ -35,5 +35,6 @@ mongoose.connect(process.env.MONGO_URI)
 // install nodemon npm install -g nodemon
 // install dotenv npm install dotenv
 // install mongodb
+// CTRL + C to cancel out of terminal
 
 
