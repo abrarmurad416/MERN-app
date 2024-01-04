@@ -37,4 +37,4 @@ mongoose.connect(process.env.MONGO_URI)
 // install mongodb
 // CTRL + C to cancel out of terminal
 
-
+// use npm run dev to start server
